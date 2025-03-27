@@ -1,1 +1,3 @@
 # pup_capstone
+
+GIT IT TOGETHER WORKSHOP
